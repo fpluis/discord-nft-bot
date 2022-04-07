@@ -1,0 +1,16 @@
+{
+  "name": "discord-sales-bot",
+  "version": "0.0.1",
+  "description": "A bot to report an NFT project's sales on discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mr Fominaya",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ethers": "^5.6.1"
+  }
+}
